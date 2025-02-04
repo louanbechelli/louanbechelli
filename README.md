@@ -2,7 +2,7 @@
 
 <h4>Sobre mim</h4>
 
-- <p style="font-size:14px;">💻 Desenvolvedor <b>Full Stack</b> com vasta experiência tanto em front-end quanto em back-end;</p>
+- <p style="font-size:14px;">💻 Desenvolvedor <b>Full Stack</b> com vasta experiência em front-end e back-end;</p>
 - <p style="font-size:14px;">🌱 Aprendendo mais sobre desenvolvimento Web.</p>
 
 <h4>Minhas Skills</h4>
